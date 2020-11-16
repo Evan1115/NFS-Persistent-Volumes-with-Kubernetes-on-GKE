@@ -42,3 +42,7 @@ echo "Hello, NFS Storage NGINX" > index.html
 After that get a shell into the running container of Nginx and cd into /usr/share/nginx/html. You should be able to see the index.html.
 
 
+
+![alt text][logo]
+
+[logo]: https://github.com/JoramDev/NFS-Persistent-Volumes-with-Kubernetes-on-GKE/blob/master/Capture.PNG 
